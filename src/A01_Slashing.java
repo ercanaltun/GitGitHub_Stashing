@@ -5,6 +5,7 @@ public class A01_Slashing {
         System.out.println("Day_3, 2. Trying For Slashing in Master");
         System.out.println("Day_3, 3. Trying For Slashing in Ercan");
         System.out.println("Day_3, 4. Trying For Slashing in Ercan");
+        System.out.println("Day_3, 5. Trying For Slashing in Ercan");
 
 
     }
