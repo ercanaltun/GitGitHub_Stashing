@@ -7,7 +7,9 @@ public class A01_Slashing {
         System.out.println("Day_3, 4. Trying For Slashing in Ercan");
         System.out.println("Day_3, 5. Trying For Slashing in Ercan");
         System.out.println("Day_3, 6. Trying For Slashing in GitHub");
-        
+        System.out.println("Day_3, 7. Trying For Slashing in Ercan");
+
+
 
 
     }
